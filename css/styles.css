@@ -58,8 +58,23 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
 
-.art-img {
-  width: 20%;
+.css-slideshow {
+  text-align:center;
+  position: relative;
+  max-width: 410px;
+  height: 730px;
+  margi
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align:center;
+  position: relative;
+  max-width: 410px;
+  height: 730px;
+  margin: auto;
 }
 
 body {
